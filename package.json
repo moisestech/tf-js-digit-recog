@@ -1,0 +1,25 @@
+{
+  "name": "react-digit-recog",
+  "version": "1.0.0",
+  "description": "React.JS Tensorflow.js Digit Recognition",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisestech/react-digit-recog.git"
+  },
+  "keywords": [
+    "reactjs",
+    "digit recogniser"
+  ],
+  "author": "Moises Sanabria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moisestech/react-digit-recog/issues"
+  },
+  "homepage": "https://github.com/moisestech/react-digit-recog#readme"
+}
