@@ -35,3 +35,7 @@ async trainNewModel() {
   // Define a model for linear regression
   this.linearModel = tf.sequential
 }
+
+// code: https://github.com/AngularFirebase/97-tensorflowjs-quick-start
+// video: https://fireship.io/lessons/tensorflow-js-quick-start/
+// blog: https://fireship.io/lessons/tensorflow-js-quick-start/
