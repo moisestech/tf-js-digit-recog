@@ -2,6 +2,15 @@ import tf from 'tensorflow/tfjs'
 import canvas from "./components"
 
 
+export default function App() {
+  let project_name = "Tensorflow.js Digit Recognizer";
+
+  return (  
+    {console.log(project_name)}
+  )
+}
+
+
 const model = tf.Model;
 const linearModel = tf.Sequential;
 predictions: any
