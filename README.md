@@ -6,14 +6,26 @@ Take a hand-drawn digit image and predict it's inherent numeric value
 
 ## ⚙ Features
 
+- [React 17](https://reactjs.org/blog/2020/10/20/react-v17.html)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [React Webcam](https://www.npmjs.com/package/react-webcam)
+- [Canvas API](https://www.w3schools.com/tags/canvas_arc.asp)
+- [Tensorflow @2.8.5](https://www.tensorflow.org/js/models)
+- [Model]()
+- [ES8](https://www.w3schools.com/js/js_2018.asp)
+- [PropTypes](https://www.npmjs.com/package/prop-types)
+
 ## 👁️‍🗨️ Project Preview
 
 Coming Soon!
 
-## 📚 HOW-TO
+## 🚀 Start
 
 To start app: `npm start`
-Fore additional info: []()
+
+## 📚 HOW-TO
+
+For additional info click [here]()
 
 ## 🗺 URL Tree
 
