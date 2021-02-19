@@ -4,7 +4,7 @@
   "description": "React.JS Tensorflow.js Digit Recognition",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack serve",
     "build": "NODE_ENV='production' webpack",
     "test": "echo \"No test specified\""
   },
@@ -44,6 +44,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.12.13",
+    "@tensorflow/tfjs": "^2.8.6",
     "css-loader": "^5.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
