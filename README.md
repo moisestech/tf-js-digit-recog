@@ -2,7 +2,7 @@
 
 ## **React.JS Tensorflow.js Digit Recognition**
 
-Take a hand-drawn digit image and predict it's inherent numeric value
+- Take a hand-drawn digit image and predict it's inherent numeric value.
 
 ## ⚙ Features
 
