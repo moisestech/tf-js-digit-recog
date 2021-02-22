@@ -1,11 +1,26 @@
 # Project HOW-TO
 
-- Take a hand-drawn digit image and predict it's inherent numeric value.
-- Image Recognition convolutional neural network.
-- **Tutorial** [Fireship Inspo video](https://youtu.be/Y_XM3Bu-4yc?t=154)
+## **1.** Transfer the Model from Keras
 
-1. Transfer the Model from Keras
-2. Call the Predict Method everytime the image is drawn into the canvas.
+- Image Recognition convolutional neural network.
+
+## **2.** Install dependencies
+
+## **3.** Import dependencies
+
+## **4.** Setup canvas
+
+## **5.** Define references to canvas
+
+## **7.** Render image from canvas
+
+## **6.** Call the predict method on image
+
+- Call the Predict Method everytime the image is drawn into the canvas.
+
+## Notes
+
+- **Tutorial** [Fireship Inspo video](https://youtu.be/Y_XM3Bu-4yc?t=154)
 
 ## NPM
 
