@@ -21,6 +21,7 @@
 ## Notes
 
 - **Tutorial** [Fireship Inspo video](https://youtu.be/Y_XM3Bu-4yc?t=154)
+- React example [here](https://github.com/ixartz/handwritten-digit-recognition-tensorflowjs)
 
 ## NPM
 
