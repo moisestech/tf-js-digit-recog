@@ -1,6 +1,6 @@
 # react-digit-recog
 
-## **React.JS Tensorflow.js Digit Recognition**
+## **React.JS TensorFlow.JS Digit Recognition**
 
 - Take a hand-drawn digit image and predict it's inherent numeric value.
 
@@ -10,7 +10,7 @@
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [React Webcam](https://www.npmjs.com/package/react-webcam)
 - [Canvas API](https://www.w3schools.com/tags/canvas_arc.asp)
-- [Tensorflow @2.8.5](https://www.tensorflow.org/js/models)
+- [TensorFlow @2.8.5](https://www.tensorflow.org/js/models)
 - [Model]()
 - [ES8](https://www.w3schools.com/js/js_2018.asp)
 - [PropTypes](https://www.npmjs.com/package/prop-types)
@@ -72,4 +72,5 @@ For additional info click [here]()
 8. Add Babel Compilation
 
 ---
+
 [Moises Sanabria](https://www.moises.tech/)
