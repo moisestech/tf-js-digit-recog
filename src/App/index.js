@@ -1,19 +1,16 @@
 import React from 'react';
 
-// lib to run model inference 
-import tf from '@tensorflow/tfjs'
+// lib to run model inference
+import tf from '@tensorflow/tfjs';
 
 // digit drawing component
-import canvas from "../components/Canvas"
+import canvas from '../components/Canvas';
 
-
-export default function App({project_name = 'Tensorflow.js Digit Recognizer'}) {
-  
-  return (  
-    <h1>{project_name}</h1>
-  )
+export default function App({
+  project_name = 'Tensorflow.js Digit Recognizer',
+}) {
+  return <h1>{project_name}</h1>;
 }
-
 
 // const model = tf.Model;
 // const linearModel = tf.Sequential;
