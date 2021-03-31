@@ -1,10 +1,7 @@
 import React from 'react';
 
 export default function Canvas() {
-
-  return (  
-    <div>Canvas component</div>
-  )
+  return <div>Canvas component</div>;
 }
 
 // export class DrawableDirective implements OnInit {
