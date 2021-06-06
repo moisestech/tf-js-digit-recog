@@ -1,4 +1,4 @@
-# react-digit-recog
+# tf-js-digit-recog
 
 ## **React.JS TensorFlow.JS Digit Recognition**
 
